@@ -1,6 +1,8 @@
 // app/index.js
 const calc = require('./calc')
 
+
+
 const numbersToAdd = [
   3,
   4,

@@ -19,5 +19,8 @@
   "homepage": "https://github.com/ATung01/LearningNode#readme",
   "dependencies": {
     "lodash": "^4.17.4"
+  },
+  "devDependencies": {
+    "mocha": "^4.0.1"
   }
 }
