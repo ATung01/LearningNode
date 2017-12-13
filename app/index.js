@@ -1,6 +1,6 @@
 // app/index.js
 const calc = require('./calc')
-const readingFile = require('./readingFile')
+// const readingFile = require('./readingFile')
 
 
 
@@ -12,6 +12,6 @@ const numbersToAdd = [
 ]
 
 const result = calc.sum(numbersToAdd)
-const rFile = readingFile.answer
+// const rFile = readingFile.answer
 console.log(`The result is: ${result}`)
-console.log(rFile)
+// console.log(rFile)
